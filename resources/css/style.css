@@ -8,3 +8,13 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
+
+h3 {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+footer {
+  background: gray;
+  color: white;
+  text-align: left;
+}
